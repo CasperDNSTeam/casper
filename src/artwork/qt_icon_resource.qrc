@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/casper/artwork">
+        <file>casper_banner.svg</file>
+        <file>casper_ui_off_button.svg</file>
+        <file>casper_ui_on_button.svg</file>
+        <file>casper.svg</file>
+        <file>casper_banner.png</file>
+        <file>casper_ui_off_button.png</file>
+        <file>casper_ui_on_button.png</file>
+        <file>casper.png</file>
+        <file>casper_ui_off_button@2x.png</file>
+        <file>casper_ui_on_button@2x.png</file>
+        <file>casper_ui_toolbar_settings.svg</file>
+    </qresource>
+</RCC>
